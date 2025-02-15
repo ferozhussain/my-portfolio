@@ -21,14 +21,8 @@ function App() {
                 I am a results-driven software engineer with a passion for developing high-quality software solutions that meet business objectives.
               </p>
               <div className="flex space-x-4 mb-12">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
-                  <Github size={24} />
-                </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
+                <a href="https://www.linkedin.com/in/feroz913" target="_blank" rel="noopener noreferrer" className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
                   <Linkedin size={24} />
-                </a>
-                <a href="mailto:contact@example.com" className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
-                  <Mail size={24} />
                 </a>
               </div>
               <a href="#skills" className="inline-flex items-center text-blue-600 hover:text-blue-700">
@@ -75,7 +69,6 @@ function App() {
               tags={['C#', '.NET', 'Encryption']}
               link="https://www.nuget.org/packages/SecureText"
             />
-            {/* Add more ProjectCard components as needed */}
           </div>
         </div>
       </section>
@@ -85,7 +78,7 @@ function App() {
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Get In Touch</h2>
           <form 
-            action="https://formspree.io/f/your-form-id" 
+            action="https://formspree.io/f/mqkjayjv" 
             method="POST"
             className="space-y-6"
           >
